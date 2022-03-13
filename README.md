@@ -3,9 +3,8 @@
 <p align="center">Lead Management System<project-description></p>
 
 
-## Screenshots
+## Preview
 
-<!-- ![web](/assets/quantricsmobile.gif) -->
 
 ![mobile](/assets/quantrics.gif)
 
