@@ -1,16 +1,31 @@
-# lmgmt
+<h1 align="center">quantrics<project-name></h1>
 
-A new Flutter project.
+<p align="center">Lead Management System<project-description></p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<!-- ![web](/assets/quantricsmobile.gif) -->
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![mobile](/assets/quantrics.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Built With
+
+- Dart/Flutter
+- Firebase
+
+## Author
+
+**Oscar Villegas**
+
+- [Profile](https://github.com/techdelux "Techdelux")
+- [Email](mailto:handcraftedtechnologies@gmail.com?subject=Hi "Hi!")
+- [Website](https://techdelux.github.io/techdelux "Welcome")
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
